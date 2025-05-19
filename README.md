@@ -1,4 +1,4 @@
-# GADE - Modern Web Application
+# Next Starter - Prince Nedjoh
 
 A modern web application built with Next.js 15, featuring a clean and responsive design with advanced UI components and animations.
 
